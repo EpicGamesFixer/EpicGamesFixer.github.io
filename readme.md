@@ -27,11 +27,11 @@ even you dont have ICAFE.
 
 # 📸 Shots
 #### Install Epic Games Launcher on Server CCBOOT, then on the Client PC
-![Installation Epic Games Launcher on Server](/EpicLauncherPC.gif)
+![Installation Epic Games Launcher on Server](/shots/EpicLauncherPC.gif)
 #### Install Epic Games Fixer on Server CCBOOT
-![Installation Epic Games Fixer on Server](/Server.gif)
+![Installation Epic Games Fixer on Server](/shots/Server.gif)
 #### Install Epic Games Fixer on Client PC (SUPER MODE SHOULD BE ENABLED)
-![Installation Epic Games Fixer on Client PC](/GamePC.gif)
+![Installation Epic Games Fixer on Client PC](/shots/GamePC.gif)
 
 ### Installation
 - **Epic Games Launcher** [⬇️ Download Epic Games Launcher](https://store.epicgames.com/en-US/download)
