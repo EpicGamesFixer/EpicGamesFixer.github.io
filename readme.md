@@ -15,7 +15,7 @@ even you dont have ICAFE.
 
 # README.md
 - en [GitHub English](https://github.com/EpicGamesFixer/EpicGamesFixer/README.md)
-- ru [Github Русский](https://github.com/EpicGamesFixer/EpicGamesFixer/blob/main/readme/README.ru.md)
+- ru [Github Русский](https://github.com/EpicGamesFixer/EpicGamesFixer)
 
 
 # Also check other fixes for Valorant, Steam and other tool
