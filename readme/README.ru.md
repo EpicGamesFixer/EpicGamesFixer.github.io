@@ -11,8 +11,8 @@
 
 
 # README.md
-- en [English](../README.md)
-- ru [Русский](README.ru.md)
+- en [English](https://github.com/EpicGamesFixer/EpicGamesFixer)
+- ru [Русский](https://github.com/EpicGamesFixer/EpicGamesFixer/blob/main/readme/README.ru.md)
 
 
 # Так же смотрите фиксы для Valorant и Steam и дополнительные утилиты 
