@@ -1,6 +1,6 @@
 <p align='center'>
   <b> EpicGames Fixer Update </b><br>  
-  <img src="/6615685.png" style="width: 20%">
+  <img src="/shots/6615685.png" style="width: 20%">
 </p>
 
 This tool for Epic Games Launcher will provide 
