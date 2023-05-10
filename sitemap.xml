@@ -6,16 +6,4 @@
     <priority>0.5</priority>
     <changefreq>weekly</changefreq>
   </url>
-  <url>
-    <loc>https://github.com/meteor2024/EpicGamesFixer/releases/</loc>
-    <lastmod>2021-12-06T17:38:21+00:00</lastmod>
-    <priority>0.5</priority>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://store.epicgames.com/en-US/download/</loc>
-    <lastmod>2022-12-06T17:38:21+00:00</lastmod>
-    <priority>0.5</priority>
-    <changefreq>weekly</changefreq>
-  </url>
 </urlset>
